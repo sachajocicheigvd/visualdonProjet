@@ -11,3 +11,4 @@ Le but est de découvrir les tendances de production d'électricité en Suisse, 
 
 Références:
 Le site web de l'Administration fédérale suisse des contributions (UVEK) a utilisé ces données pour créer une petite visualisation sur les installations de production d'électricité en Suisse. D'autres organisations gouvernementales, des chercheurs et des entreprises peuvent également avoir utilisé ces données pour des analyses et des études sur l'énergie en Suisse.
+Source principale: https://opendata.swiss/fr/dataset/elektrizitatsproduktionsanlagen
