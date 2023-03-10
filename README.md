@@ -1,4 +1,5 @@
 # visualdonProjet
+
 Contexte:
 Les données proviennent du site web opendata.swiss, qui est une plateforme gouvernementale suisse pour partager des données ouvertes et publiques. Les données ont été créées par le système suisse des garanties d'origine pour fournir une vue d'ensemble géographique de toutes les installations de production d'électricité de la Suisse. L'objectif est de présenter de manière transparente le développement des installations produisant de l'électricité avec des énergies renouvelables et de montrer la proportion de ces installations par rapport à celles produisant de l'électricité avec des énergies non renouvelables.
 
