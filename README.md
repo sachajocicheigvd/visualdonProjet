@@ -14,5 +14,8 @@ Le site web de l'Administration fédérale suisse des contributions (UVEK) a uti
 Source principale: https://opendata.swiss/fr/dataset/elektrizitatsproduktionsanlagen
 https://www.uvek-gis.admin.ch/BFE/storymaps/EE_Elektrizitaetsproduktionsanlagen/
 
+WireFrame
+![2023-03-16_11-43-03](https://user-images.githubusercontent.com/115351469/225594042-04c576d7-d2fd-430f-b401-a86eb028510a.jpg)
+![2023-03-16_11-45-55](https://user-images.githubusercontent.com/115351469/225594045-be5dedf2-79a4-4cf6-9027-5b415e01be82.jpg)
+
 Leaflet comme maps avec open street map
-![2023-03-16_10-18-12](https://user-images.githubusercontent.com/115351469/225591980-68f01063-eaae-4875-b5b2-969f32bc9313.jpg)
