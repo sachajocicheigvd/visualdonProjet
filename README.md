@@ -15,3 +15,4 @@ Source principale: https://opendata.swiss/fr/dataset/elektrizitatsproduktionsanl
 https://www.uvek-gis.admin.ch/BFE/storymaps/EE_Elektrizitaetsproduktionsanlagen/
 
 Leaflet comme maps avec open street map
+![2023-03-16_10-18-12](https://user-images.githubusercontent.com/115351469/225591980-68f01063-eaae-4875-b5b2-969f32bc9313.jpg)
